@@ -1,3 +1,8 @@
+#biblioteca ggplot2
+
+install.packages("ggplot2")
+library(ggplot2)
+
 ##histograma
 resistencia <- c(11.5, 12.1, 9.9, 9.3, 7.8, 6.2, 6.6, 7.0, 13.4,
                  17.1, 9.3, 5.6, 5.7, 5.4, 5.2, 5.1, 4.9, 10.7, 3.7,
